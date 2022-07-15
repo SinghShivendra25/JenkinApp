@@ -3,6 +3,12 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>JenkinApp.Program</StartupObject>
+    <NoWin32Manifest>true</NoWin32Manifest>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyMaths\MyMaths.csproj" />
+  </ItemGroup>
 
 </Project>
