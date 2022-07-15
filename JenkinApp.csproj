@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MyMaths\MyMaths.csproj" />
+    <ProjectReference Include="..\Math\Math.csproj" />
   </ItemGroup>
 
 </Project>

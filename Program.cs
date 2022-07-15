@@ -1,5 +1,5 @@
 ﻿using System;
-using MyMaths;
+using Math;
 
 namespace JenkinApp
 {
